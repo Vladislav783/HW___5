@@ -1,0 +1,5 @@
+Mike 25000
+Nick 40000
+Samanta 150000
+Soul 10000000
+Carl 15000
